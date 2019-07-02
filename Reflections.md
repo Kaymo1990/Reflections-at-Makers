@@ -5,76 +5,28 @@ Hi there, my name is Khurram (Kay) and this is going to be a daily reflections b
 
 ### Table of Contents
 
-  * [](#)
   * [About me](#about-me)
   * [Courses](#courses)
-  * [Help](#help)
-  * [General Topics](#general-topics)
-  * [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
-  * [Curation](#curation)
-  * [Best Practices/Style Guides](#best-practicesstyle-guides)
-  * [Lessons Learned](#lessons-learned)
-  * [Boilerplates/Seed Projects](#boilerplatesseed-projects)
-  * [Multipart Articles](#multipart-articles)
-  * [Sample Apps](#sample-apps)
-  * [Scopes & Compile](#scopes--compile)
-  * [Dependency Injection](#dependency-injection)
-  * [Directives](#directives)
-  * [Services/Providers](#servicesproviders)
-  * [Routing](#routing)
-  * [Promises/Deferred](#promisesdeferred)
-  * [Forms](#forms)
-  * [Authentication](#authentication)
-  * [Collections](#collections--ngrepeat-stuff)
-  * [Code Organization](#code-organization)
-  * [Testing](#testing)
-  * [RESTful Stuff](#restful-stuff)
-  * [Localization](#localization)
-  * [UI Stuff](#ui-stuff)
-  * [Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)
-  * [Hosted Backends](#integration-with-other-languagesframeworks)
-  * [Mobile](#mobile)
-  * [Popular Third-Party Modules](#popular-third-party-modules)
-  * [Test Editor Bundles](#text-editor-bundleside-stuff)
-  * [Development Tools](#development-tools)
 
-## Books
-| Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
-| [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/) | Chris Smith | Scripty Books | v1.3.x | 3/15/2015 |
-| [AngularJS By Example](https://www.packtpub.com/web-development/angularjs-example) | Chandermani | Packt Publishing | v1.3.x | 3/12/2015
-| [AngularJS Cookbook](https://leanpub.com/angularjs-cookbook)| Sascha Brink | Leanpub | v1.2.x | ? |
-| [AngularJS Essentials](https://www.packtpub.com/web-development/angularjs-essentials)                                                                   | Rodrigo Branas                           | Packt Publishing     | ?                |     WIP     |
-| [AngularJS: Up & Running](http://shop.oreilly.com/product/0636920033486.do)                                                                                           | Brad Green, Shyam Seshadri               | O'Reilly             | v1.2.x  |   9/2014  |
-| [AngularJS In Action](https://www.manning.com/books/angularjs-in-action)                                                                                                    | Brian Ford, Lukas Ruebbelke              | Manning Publications | v1.0.4 - v1.2.14 |     WIP     |
-| [AngularJS: Novice to Ninja](https://www.sitepoint.com/premium/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
-| [AngularJS UI Development](https://www.packtpub.com/web-development/angularjs-ui-development)                                                           | Matthias Nehlsen, Amit Gharat            | Packt Publishing     | v1.2.22 - v1.2.x |     WIP     |
-| [AngularJS Web application development Blueprints : RAW](https://www.packtpub.com/web-development/angularjs-web-application-development-blueprints) | Vinci Rufus                              | Packt Publishing     | ?                |     WIP     |
-| [AngularJS with Ruby on Rails](http://angular-rails.com/)| David Bryant Copeland | ? | ? | ? |
-| [Build Your Own AngularJS](http://teropa.info/build-your-own-angular)                                                                                   | Tero Parviainen                          | Self-published       | v1.x             |     WIP     |
-| [D3 on AngularJS](https://leanpub.com/d3angularjs)                                                                                                      | Ari Lerner, Victor Powell                | Leanpub              | v1.0.7 - v1.2.11 |   6/6/2014  |
-| [Deep Dive into Angular.js Directives](https://leanpub.com/angularjsdirectives) | Jesús Rodríguez | Leanpub | v.1.3.x |
-| [Dependency Injection with AngularJS](https://www.packtpub.com/web-development/dependency-injection-angularjs)                                          | Alex Knol                                | Packt Publishing     | ?                |  12/1/2013  |
-| [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | Leanpub | ? | 2014/11/10 |
-| [Learning AngularJS](http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000595964) | Brad Dayley | Addison Wesley | v1.3.x | 12/1/2014
-| [Learning Web Development with Bootstrap and Angular: RAW](https://www.packtpub.com/web-development/learning-web-development-bootstrap-and-angularjs) | Stephen Radford                          | Packt Publishing     | v1.2.x - v1.3    |     WIP     |
-| [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
-| [Mastering Web Application Development With AngularJS](https://www.packtpub.com/web-development/mastering-web-application-development-angularjs)        | Peter Bacon Darwin, Pawel Kozlowski      | Packt Publishing     | v1.0.2 - v1.0.7  |   8/1/2013  |
-| [ng-book](https://www.ng-book.com)                                                                                                                      | Ari Lerner                               | Self-published       | v1.0.7 - v1.3.x  |  6/24/2014  |
-| [Practical AngularJS](https://leanpub.com/Practical_AngularJS)| Dinis Cruz | Leanpub | ? | ? |
-| [Pro AngularJS](http://www.apress.com/9781430264484) | Adam Freeman | Apress | v1.2.x | 02/04/2014 |
-| [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read)| Frederik Dietz | Leanpub | ? | ? |
-| [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs)| David Shapiro | Leanpub | v1.2.16 | ? |
 
 ## About me
 
-===============
+Hi again! Before going into my personal reflections and goals going into the world of software development, I wanted to go through a quick overview of background and motivations for wanting to go into this ever-evolving world!
 
-Hi again.
-* [Angular JS Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt) - 42 videos of 6-7 minutes each covering Angular Fundamentals.
-* [Angular Routing In-depth](https://www.pluralsight.com/courses/angular-routing-in-depth) - Paid
-* [AngularJS 1.2 & Beyond] (https://www.youtube.com/watch?feature=youtu.be&v=W13qDdJDHp8)
-* [AngularJS Directives Fundamentals](https://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
+My current career path includes a fairly diverse range of roles, including the following:
+* Equity specialist for Bloomberg LP
+* Secondary and sixth-form science teacher through Teach First
+* Stem cell researcher
+* Personal stylist
+* Toy demonstrator at Hamley's Toy Store!
+
+My educational background includes:
+* PGCE Science (Canterbury Christ Church University 2016)
+* MSc Biomedical and Molecular Research (King's College London 2015)
+* BSc Hons Pharmacology (King's College London 2013)
+
+My journey into the world of tech started while working within the equities division at Bloomberg LP. My role involved working alongside the developers to pass solutions to clients and feedback/bug reports from clients in order to maintain integrity of the system. As part of this we were introduced to a 2 day long workshop, which went through the fundamentals of Python. Learning more about data structures, conditional flow and logic led me to exploring more. I experimented with C#, JavaScript, Ruby, however my learning was not very comprehensive, subsequently leading me to joining Makers, in order to reinforce and develop my understanding as a developer.
+
 
 
 ## Courses
