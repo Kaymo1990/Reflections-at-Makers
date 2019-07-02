@@ -6,7 +6,7 @@ Hi there, my name is Khurram (Kay) and this is going to be a daily reflections b
 ### Table of Contents
 
   * [About me](#about-me)
-  * [Courses](#courses)
+  * [Week one](#week-one)
 
 
 ## About me
@@ -29,7 +29,35 @@ My journey into the world of tech started while working within the equities divi
 
 
 
-## Courses
+## Week one
+
+#### Day one
+
+Learning objectives
+* Getting our developer environment set up for iOS
+* Write RSpec tests before writing code
+* Utilise the driver-navigator methodology for pair-programming
+* Understand how to translate RSpec errors to debug code
+
+Goal for the day
+* Read through errors on RSpec and the erroneous line to debug the code and have it pass the tests. Practice this by debugging coding exercises with increasing difficulty.
+
+Reflection
+* Reflection here
+
+
+#### Day two
+
+Learning objectives
+* Create a project for docking and undocking Boris bikes
+* Understand how to raise exceptions in my code using 'raise'
+* Create tests in Rspec which use the .to raise_error syntax
+
+Goal for the day
+* To correctly write failing and then passing tests for exceptions in my class methods, this will be done through reading the reference documentation and then replicating this for at least two different examples in my code with passing Rspec tests.
+
+Reflection
+* Reflection here
 
 * [AngularJS for the Real World - Learn by creating a WebApp](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=GITDEV29A) - 7 hrs video  + source code (Paid 50% discount)
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
